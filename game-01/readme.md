@@ -8,4 +8,10 @@ You're required to create a function that receives an array (M) and integer valu
 
 > 🚨 We're looking to someone who can imagine future problems while is coding.
 
+## Example
+
+```bash
+$ npm start -- "[2,5,8,14,0]" 10
+```
+
  
